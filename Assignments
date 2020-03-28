@@ -1,9 +1,9 @@
 Assignments
 Assignment 1: (Date: 22 Feb)
-1.	Read more about Activation functions, loss function and hyper parameters in detail.
+1. Read more about Activation functions, loss function and hyper parameters in detail.
 
 Assignment 2: (Date: 23 Feb)
-1.	Build a fully connected Feed Forward neural network using any framework for classifying digits using MNIST dataset.
+1. Build a fully connected Feed Forward neural network using any framework for classifying digits using MNIST dataset.
 
 Assignment 3: (Date: 1 March)
 1. Train a model using transfer learning with any architecture for a classification task.
@@ -21,6 +21,6 @@ Assignment 5: (Date: 15 March)
 1. Implement facial landmark detection with the available datasets. 
 
 Assignment 6: (Date: 22 March)
-	Study:   1. YOLO paper.
+Study:  1. YOLO paper.
 	2. Floating point precision formats.
 	3. Dockers
