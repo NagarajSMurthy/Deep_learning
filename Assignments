@@ -7,9 +7,7 @@ Assignment 2: (Date: 23 Feb)
 
 Assignment 3: (Date: 1 March)
 1. Train a model using transfer learning with any architecture for a classification task.
-
 2. Try to freeze different layers while making use of transfer learning.
-
 3. Use a different dataset other than MNIST or Fashion MNIST
 
 Assignment 4: (Date: 7 march)
@@ -24,3 +22,14 @@ Assignment 6: (Date: 22 March)
 Study:  1. YOLO paper.
 	2. Floating point precision formats.
 	3. Dockers
+	
+Assignment 7: (Date: 28 March)
+1. Implement Mixed-precision training for any classification task. 
+
+Optional:
+1. Implement Neural style transfer
+2. Convert a trained model to ONNX format and run a inference session on ONNXRuntime.
+
+
+Final project:
+Implement a facial sentiment analyser from scratch. 
